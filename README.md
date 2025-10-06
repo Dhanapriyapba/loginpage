@@ -1,2 +1,2 @@
 loginpage
-This repository is for login page
+This repository is for login page testing
